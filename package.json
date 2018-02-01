@@ -6,6 +6,13 @@
     "icon-font-generator": "^1.1.1",
     "laravel-mix": "^2.0.0"
   },
+  "keywords": [
+    "icon",
+    "simple",
+    "line",
+    "css",
+    "webfont"
+  ],
   "scripts": {
     "dev": "NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "watch": "NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",

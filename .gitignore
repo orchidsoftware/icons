@@ -1,4 +1,15 @@
-Будет удалено .idea/
-Будет удалено node_modules/
-Будет удалено package-lock.json
-Будет удалено src/
+.idea/
+node_modules/
+package-lock.json
+.*.swp
+._*
+.DS_Store
+.git
+.hg
+.npmrc
+.lock-wscript
+.svn
+.wafpickle-*
+config.gypi
+CVS
+npm-debug.log
