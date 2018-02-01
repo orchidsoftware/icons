@@ -1,13 +1,12 @@
 {
   "name": "orchid-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and Minimal Line Icons",
-  "dependencies": {
+  "devDependencies": {
     "icon-font-generator": "^1.1.1",
     "laravel-mix": "^2.0.0"
   },
   "scripts": {
-    "build": "NODE_ENV=development node_modules/icon-font-generator/bin/icon-font-generator src/svg/*.svg -o dist --name o-icon",
     "dev": "NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "watch": "NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "hot": "NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
