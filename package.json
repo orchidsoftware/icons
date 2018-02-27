@@ -1,6 +1,6 @@
 {
   "name": "orchid-icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple and Minimal Line Icons",
   "devDependencies": {
     "icon-font-generator": "^1.1.1",
