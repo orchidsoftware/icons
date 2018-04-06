@@ -26,7 +26,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
 @function unicode($str) {
   @return unquote("\"") + $str + unquote("\"");
 }
