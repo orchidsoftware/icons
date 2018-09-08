@@ -26,8 +26,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-@function unicode($str) {
-  @return unquote("\"") + $str + unquote("\"");
+.icon-fingerprint {
+  &:before {
+    content: $icon-fingerprint;
+  }
 }
 
 .icon-android {
@@ -1703,3 +1705,4 @@
     content: $icon-female-user;
   }
 }
+
