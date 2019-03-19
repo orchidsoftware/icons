@@ -1,6 +1,6 @@
 {
   "name": "orchid-icons",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Simple and Minimal Line Icons",
   "devDependencies": {
     "laravel-mix": "^2.1.14"
