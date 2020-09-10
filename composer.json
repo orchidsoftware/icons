@@ -17,5 +17,10 @@
         {
             "name": "Ahmad Firoz"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Orchid\\IconPack\\": "src/"
+        }
+    }
 }
