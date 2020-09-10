@@ -1,0 +1,21 @@
+{
+    "name": "orchid/icons",
+    "description": "Simple and Minimal Line Icons",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Chernyaev",
+            "email": "bliz48rus@gmail.com"
+        },
+        {
+            "name": "Dmitry Skirta"
+        },
+        {
+            "name": "Jamal Jama"
+        },
+        {
+            "name": "Ahmad Firoz"
+        }
+    ]
+}

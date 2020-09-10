@@ -13,3 +13,4 @@ package-lock.json
 config.gypi
 CVS
 npm-debug.log
+/vendor/
