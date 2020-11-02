@@ -13,6 +13,7 @@ Or, you can also clone or download this repository as [zip](https://github.com/o
 
 ## Credits
 
+* Dmitry Skirta
 * [Simple Line Icons](https://github.com/thesabbir/simple-line-icons/)
 * [Jamal Jama](https://twitter.com/byjml) for creating this awesome webfont & [Ahmad Firoz](https://twitter.com/firoz_usf) for extending it further.
 
