@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-composer install orchid/icons
+composer require orchid/icons
 ```
 
 Or, you can also clone or download this repository as [zip](https://github.com/orchidsoftware/icons/archive/master.zip).
